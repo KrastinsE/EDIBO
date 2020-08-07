@@ -1,0 +1,89 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo
+    4  a=11
+    5  echo $a
+    6  man ls
+    7  PS1="* "
+    8  l
+    9  history
+   10  ls
+   11  man ls
+   12  ls -
+   13  ls -x
+   14  l
+   15  k
+   16  pwd
+   17  cd documents
+   18  echo $0
+   19  sh
+   20  echo $0
+   21  last
+   22  pwd
+   23  ls
+   24  ls -l
+   25  ls -l -a
+   26  ls -lt
+   27  cd Desktop
+   28  cd Desktop/
+   29  pwd
+   30  cd ~
+   31  pwd
+   32  cd -
+   33  cd ~
+   34  pwd
+   35  cd /home
+   36  pwd
+   37  cd
+   38  pwd
+   39  tree
+   40  man tree
+   41  ls
+   42  man tree
+   43  man -d
+   44  tree
+   45  man tree
+   46  man -d
+   47  ls
+   48  firefox
+   49  $0
+   50  echo $0
+   51  ls
+   52  man ls
+   53  ls -l
+   54  echo
+   55  cd Desktop
+   56  pwd
+   57  cd -
+   58  pwd
+   59  cd Desktop
+   60  pwd
+   61  cd..
+   62  echo cd..
+   63  pwd
+   64  cd--
+   65  cd . .
+   66  cd .
+   67  cd ..
+   68  pwd
+   69  cd ..
+   70  pwds
+   71  pwd
+   72  cd-
+   73  pwd
+   74  echo
+   75  cat
+   76  pwd
+   77  cd Desktop
+   78  pwd
+   79  cd~
+   80  pwd
+   81  cd ~
+   82  pwd
+   83  hexdump -C READMI.md
+   84  hexdump -C README.md
+   85  cat README.md
+   86  nano README.md
+   87  ls -lta
+   88  history
+   89  history > history_20200807a.txt

@@ -5,6 +5,10 @@ EDIBO projekta elektroniskā klade
 - Terminal (hot-keys)
 - Shell (basics)
 - Git (basics)
+- ASCII table
+
+#### ASCII table
+[ASCII table] (www.ecowin.org/ascii.htm)
 
 ## Hot-keys
 ### Day 1  
