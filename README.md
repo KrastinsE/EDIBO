@@ -7,6 +7,6 @@ EDIBO projekta elektroniskā klade
 - Git (basics)
 
 #### Test
-Teksts1
+Teksts1  
 Teksts2
 Teksts3
