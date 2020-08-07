@@ -8,7 +8,7 @@ EDIBO projekta elektroniskā klade
 - ASCII table
 
 #### ASCII table
-[ASCII table] (www.ecowin.org/ascii.htm)
+[ASCII table](www.ecowin.org/ascii.htm)
 
 ## Hot-keys
 ### Day 1  
