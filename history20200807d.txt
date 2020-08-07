@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone
+    4  git clone https://www.github.com/KrastinsE/EDIBO
+    5  ls -lt
+    6  cd EDIBO/
+    7  pwd
+    8  ls -lt
+    9  nano mans_pirmais_skripts.sh
+   10  ls -l
+   11  chmod 744 mans_pirmais_skripts.sh
+   12  ls -l
+   13  /home/user/EDIBO/mans_pirmais_skripts.sh
+   14  ls -l
+   15  pwd
+   16  ls -l
+   17  ./mans_pirmais_skripts.sh
+   18  cd ABC/
+   19  ls -lt
+   20  ls -l
+   21  ls -lt
+   22  ./mans_pirmais_skripts.sh
+   23  pwd
+   24  ls
+   25  /home/user/EDIBO/mans_pirmais_skripts.sh
+   26  ls
+   27  /home/user/EDIBO
+   28  ls
+   29  cd EDIBO
+   30  echo $PATH
+   31  .
+   32  pwd
+   33  cd ~
+   34  pwd
+   35  cd EDIBO
+   36  ls
+   37  ls -lt
+   38  echo $PATH
+   39  pwd
+   40  PATH=$PATH
+   41  echo $PATH
+   42  PATH=$PATH:./
+   43  echo $PATH
+   44  ls
+   45  man
+   46  pwd
+   47  echo $PATH
+   48  PATH=$PATH:./
+   49  man
+   50  ls
+   51  PATH=$PATH:~
+   52  man
+   53  echo $PATH
+   54  man
+   55  manls -l
+   56  pwd
+   57  ls -l
+   58  echo $PATH
+   59  pwd
+   60  ls -l /bin
+   61  ls
+   62  ls /home/user/EDIBO/
+   63  pwd
+   64  history
+   65  history > history20200807d.txt

@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="$ "
+    4  dfdfdfd
+    5  LS
+    6  ls
+    7  whereis ls
+    8  ls /bin/ls
+    9  ls -l /bin/ls
+   10  ls -l
+   11  pwd
+   12  /home/user/EDIBO/README.de
+   13  /home/user/EDIBO/README.me
+   14  /home/user/EDIBO/README.md
+   15  chmod 764 README.md
+   16  ls -l
+   17  /home/user/EDIBO/README.md
+   18  /bin/ls
+   19  ls
+   20  ls - l /bin/ls
+   21  ls -l /bin/ls
+   22  cat /bin/ls
+   23  ls -l /bin/ls
+   24  /bin/ls
+   25  ls -l
+   26  ls
+   27  ls -lt
+   28  chmod 664 README.md
+   29  ls -lt
+   30  ls -l
+   31  history
+   32* pwd 
+   33  history > history_20200807c.txt

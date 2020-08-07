@@ -1,0 +1,10 @@
+#!/bin/bash
+
+git config --global user.email ervins.krastins@gmail.com
+git add .
+git commit -m "20200807_16_30"
+git push origin master
+
+
+
+
