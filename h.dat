@@ -1,0 +1,19 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="* "
+    4  hexdump d.dat
+    5  hexdump a.dat
+    6  for i in 1; do echo "$1 $((i*i)); done | hexdump"
+    7* for i in 1; do echo "$1 $((i*i))"; done |
+    8  for i in 1; do echo "$1 $((i*i))"; done | hexdump
+    9  for i in 1; do echo "$1 $((i*i))"; done
+   10  for i in 1; do echo "$i $((i*i))"; done
+   11  echo 1 | hexdump
+   12  echo 2 | hexdump
+   13  echo 3 | hexdump
+   14  echo 10 | hexdump
+   15  echo a | hexdump
+   16  echo Z | hexdump
+   17  ls -lt
+   18  gitupload
+   19  history > h.dat
