@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git clone https://www.github.com/KrastinsE/EDIBO
+    5  ls -lt
+    6  cd EDIBO/
+    7  mkdir SHELL
+    8  cd SHELL/
+    9  pwd
+   10  nano Day04.txt
+   11  fg
+   12  nano Day04.txt
+   13  pwd
+   14  ls
+   15  cd ~
+   16  pwd
+   17  ls
+   18  cd EDIBO/
+   19  pwd
+   20  ls
+   21  nano README.md
+   22  cd README.md
+   23  ./mans_pirmais_skripts.sh
+   24  cd SHELL
+   25  pwd
+   26  history
+   27  history > history_20200811.txt

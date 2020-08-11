@@ -1,0 +1,104 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $$
+    4  nano test_variables_2.sh
+    5  nano test_specialvariables_1.sh
+    6  ls l
+    7  ls
+    8  chmod 744 test_specialvariables_1.sh
+    9  ls
+   10  ./ Zara Ali
+   11  ./test test_specialvariables_1.sh
+   12  $./test test_specialvariables_1.sh
+   13  pwd
+   14  ls
+   15  $./test Zara Ali
+   16  ./test.sh
+   17  $./test_specialvariables_1.sh Zara Ali
+   18  $./test.sh Zara Ali
+   19  $./test test_specialvariables_1.sh Zara Ali
+   20  $./test_specialvariables_1.sh
+   21  ls
+   22  nano test_specialvariables_1.sh
+   23  nano test_variables_1.sh
+   24  $./test.sh Zara Ali
+   25  $./test_specialvariables_1.sh
+   26  $./test_specialvariables_1.sh Zara Ali
+   27  pwd
+   28  ls
+   29  ./test.sh
+   30  ls -lt
+   31  nano test_usingarrays_1.sh
+   32  ls l
+   33  ls
+   34  chmod 744 test_usingarrays_1.sh
+   35  ls
+   36  ./test_usingarrays_1.sh
+   37  nano test_usingarrays_1.sh
+   38  ./test_usingarrays_1.sh
+   39  nano test_specialvariables_1.sh
+   40  ./test_specialvariables_1.sh
+   41  nano test_usingarrays_1.sh
+   42  ./test_usingarrays_1.sh
+   43  nano test_basicoperations_1.sh
+   44  ls
+   45  chmod 744 test_basicoperations_1.sh
+   46  ls
+   47  ./test_basicoperations_1.sh
+   48  nano ussingarrays_1.sh
+   49  nano test_ussingarrays_1.sh
+   50  nano test_usingarrays_1.sh
+   51  nano test_usingarrays_2.sh
+   52  ls
+   53  chmod 744 test_usingarrays_2.sh
+   54  ls
+   55  ./test_usingarrays_2.sh
+   56  nano test_usingarrays_2.sh
+   57  ./test_usingarrays_2.sh
+   58  nano test_loopcontrol_1.sh
+   59  ls
+   60  chmod 744 test_loopcontrol_1.sh
+   61  ./test_loopcontrol_1.sh
+   62  nano test_shellloops_1.sh
+   63  ls
+   64  chmod 744 test_shellloops_1.sh
+   65  ls
+   66  ./test_shellloops_1.sh
+   67  ./test_loopcontrol_1.sh
+   68  ls
+   69  nano test_loopcontrol_1.sh
+   70  nano test_loopcontrol_2.sh
+   71  ls
+   72  chmod 744 test_loopcontrol_2.sh
+   73  ls
+   74  ./test_loopcontrol_2.sh
+   75  nano test_loopcontrol_2.sh
+   76  ./test_loopcontrol_2.sh
+   77  nano test_loopcontrol_2.sh
+   78  ./test_loopcontrol_2.sh
+   79  nano test_loopcontrol_3.sh
+   80  ls
+   81  chmod 744 test_loopcontrol_3.sh
+   82  ls
+   83  ./test_loopcontrol_3.sh
+   84  nano test_loopcontrol_3.sh
+   85  nano test_dectobin_1.sh
+   86  chmod 744 test_dectobin_1.sh
+   87  ls
+   88  ./test_dectobin_1.sh
+   89  nano test_dectobin_1.sh
+   90  ./test_dectobin_1.sh
+   91  nano test_dectobin_1.sh
+   92  ./test_dectobin_1.sh
+   93  nano test_dectobin_1.sh
+   94  ./test_dectobin_1.sh
+   95  nano test_dectobin_1.sh
+   96  ./test_dectobin_1.sh
+   97  nano test_dectobin_1.sh
+   98  ./test_dectobin_1.sh
+   99  nano test_dectobin_1.sh
+  100  ./test_dectobin_1.sh
+  101  nano test_dectobin_1.sh
+  102  ./test_dectobin_1.sh
+  103  history
+  104  history > history_20200811b.txt

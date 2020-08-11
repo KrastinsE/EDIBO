@@ -1,0 +1,32 @@
+Programmēšanas "paņēmieni" vai svarīgākās konstrukcijas:
+1.a. mainīgie - tiek lietoti identifikatori 
+(a, b, ab, a_b - drīskt), ("a b" - nedrīkst)
+1.b. konstantes -"-
+2. operācijas: =, +, -, *, /, %-meklē pārpalikumu, ... 
+(parasti operācija notiek ar diviem operandiem)
+3.a. nosacījuma operators - if (var būt ar else-nevar būt viens pats jo vienmēr kopā ar if, var būt elif, ...) 
+koda izpildes sazarošanai
+3.b. cikla operators - for, while, do ... while
+koda daļas izpildīšanas atkārtošanai
+(ekvivalents - daudz manuāli blakus sarakstītas līdzīgas rindas)
+4. funkcija - ar argumentiem / bez argumentiem un ar atgriežamiem lielumiem / bez atgriežamiem lielumiem 
+
+Paņēmieni SHELLĀ:
+1. Darbs ar mainīgajiem - Unix/Linux - Using Shell Variables
+https://www.tutorialspoint.com/unix/unix-using-variables.htm
+
+2. Darbs ar mainīgajiem - Unix/Linux - Special Variables
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
+
+3. Darbs ar mainīgo masīvu - Unix/Linux - Using Shell Arrays
+https://www.tutorialspoint.com/unix/unix-using-arrays.htm
+
+4. Darbs ar operācijām - Unix/Linux - Shell Basic Operations
+https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+
+5. Darbs ar nosacījuma operatoru - Unix/Linux - Shell Decision Making
+https://www.tutorialspoint.com/unix/unix-decision-making.htm
+
+6. Darbs ar cikliem - Unix/Linux - Shell Loop Types
+https://www.tutorialspoint.com/unix/unix-shell-loops.htm
+https://www.tutorialspoint.com/unix/unix-loop-control.htm
