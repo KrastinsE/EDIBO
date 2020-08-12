@@ -1,3 +1,4 @@
+
 print(vars())
 a = 10
 print(vars())

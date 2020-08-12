@@ -1,0 +1,212 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  python 
+    5  python
+    6  ipython
+    7  nano first_python_script.py
+    8  ls -lt
+    9  python first_python_script.py
+   10  nano first_python_script.py
+   11  python first_python_script.py
+   12  nano first_python_script.py
+   13  python first_python_script.py
+   14  nano first_python_script.py
+   15  python first_python_script.py
+   16  nano first_python_script.py
+   17  python first_python_script.py
+   18  cp first_python_script.py second_python_script_like_executable.py
+   19  ls -lt
+   20  whereis python
+   21  nano second_python_script_like_executable.py
+   22  python second_python_script_like_executable.py
+   23  ls -lt
+   24  chmod 744 second_python_script_like_executable.py
+   25  ls -lt
+   26  ./second_python_script_like_executable.py
+   27  nano second_python_script_like_executable.py
+   28  y
+   29  python second_python_script_like_executable.py
+   30  history
+   31  idle & 
+   32  ls -lt
+   33  idle &
+   34  ls -lt
+   35  cd ..
+   36  history
+   37  history > history_20200812a.txt
+   38  pwd
+   39  ls -lt
+   40  git clone https://www.github.com/KrastinsE/EDIBO
+   41  ls l
+   42  ls lt
+   43  ls -lt
+   44  cd EDIBO
+   45  pwd
+   46  cd SHELL
+   47  pwd
+   48  ls -lt
+   49  cd EDIBO/
+   50  cd /EDIBO
+   51  cd EDIBO
+   52  cd ~
+   53  pwd
+   54  ls -lt
+   55  pwd
+   56  git clone https://www.github.com/KrastinsE/FibonacciNumbers
+   57  ls -lt
+   58  cd FibonacciNumbers
+   59  ls -lt
+   60  cat README.md
+   61  nano README.md
+   62  cd ~
+   63  cd EDIBO
+   64  cd SHELL
+   65  ls -lt
+   66  nano dec2bin.txt
+   67  pwd
+   68  cd ~
+   69  ls -lt
+   70  cd FibonacciNumbers
+   71  ls -l
+   72  cd ~
+   73  cd EDIBO
+   74  cd SHELL
+   75  nano dec2tbin.txt
+   76  ls -l
+   77  nano dec2bin.txt
+   78  cd ~
+   79  cd FibonacciNumbers
+   80  ls -l
+   81  nano README.md
+   82  nano test_FibonacciNumbers.sh
+   83  ls -l
+   84  chmod 744 test_FibonacciNumbers.sh
+   85  ls -l
+   86  ./test_FibonacciNumbers.sh
+   87  nano test_FibonacciNumbers.sh
+   88  ./test_FibonacciNumbers.sh
+   89  nano test_FibonacciNumbers.sh
+   90  ./test_FibonacciNumbers.sh
+   91  nano test_FibonacciNumbers.sh
+   92  ./test_FibonacciNumbers.sh
+   93  pwd
+   94  cd ~
+   95  pwd
+   96  ls -l
+   97  cd FibonacciNumbers
+   98  ./test_FibonacciNumbers.sh
+   99  cd ~
+  100  pwd
+  101  cd EDIBO
+  102  mkdir Python
+  103  pwd
+  104  ls -l
+  105  cd Python
+  106  pwd
+  107  nano README.md
+  108  cat README.md
+  109  nano README.md
+  110  cd ..
+  111  history
+  112  history > history_20200812b.txt
+  113  ls -lt
+  114  nano git_upload
+  115  nano git-upload
+  116  git config --global user.email ervins.krastins@gmail.com
+  117  git add .
+  118  git commit -m "20200812a.txt"
+  119  git push origin master
+  120  ls -l
+  121  cd Python
+  122  idle &
+  123  ipython
+  124  python2
+  125  pwd
+  126  ls -l
+  127  nano firts_python_script.py
+  128  nano first_python_script.py
+  129  pwd
+  130  ipython
+  131  ls -l
+  132  pwd
+  133  cd EDIBO
+  134  ipython
+  135  ls -l
+  136  cd Python
+  137  nano time_script.py
+  138  b
+  139  nano time_script.py
+  140  b
+  141  chmod 744 time_script.py
+  142  cd Python
+  143  b
+  144  ls -l
+  145  python time_script.py
+  146  nano time_script.py
+  147  python time_script.py
+  148  nano time_script.py
+  149  python time_script.py
+  150  nano time_script.py
+  151  python time_script.py
+  152  nano time_script.py
+  153  python time_script.py
+  154  nano time_script.py
+  155  python time_script.py
+  156  nano time_script.py
+  157  python time_script.py
+  158  nano time_script.py
+  159  python time_script.py
+  160  nano time_script.py
+  161  python time_script.py
+  162  nano time_script.py
+  163  time ./time_script.py
+  164  ls -l
+  165  time ./time_script.py
+  166  nano time_script.py
+  167  python time_script.py
+  168  time ./time_script.py
+  169  ./time_script.py > time_script.dat
+  170  ls -l
+  171  nano time_script.py
+  172  python time_script.py
+  173  time ./time_script.py
+  174  time time_script.py
+  175  nano time_script.py
+  176  python time_script.py
+  177  time time_script.py
+  178  nano time_script.py
+  179  python time_script.py
+  180  nano time_script.py
+  181  input
+  182  nano time_script.py
+  183  python time_script.py
+  184  nano time_script.py
+  185  python time_script.py
+  186  nano time_script.py
+  187  python time_script.py
+  188  nano time_script.py
+  189  python time_script.py
+  190  nano time_script.py
+  191  python time_script.py
+  192  nano time_script.py
+  193  python time_script.py
+  194  nano time_script.py
+  195  y
+  196  python time_script.py
+  197  3
+  198  nano time_script.py
+  199  python time_script.py
+  200  nano time_script.py
+  201  python time_script.py
+  202  nano time_script.py
+  203  python time_script.py
+  204  pwd
+  205  history
+  206  pwd
+  207  cd EDIBO
+  208  ls -l
+  209  nano git-upload
+  210  cd Python
+  211  ls -l
+  212  history > history_20200812b.txt
