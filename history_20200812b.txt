@@ -1,0 +1,77 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -lt
+    5  git clone https://www.github.com/KrastinsE/EDIBO
+    6  ls l
+    7  ls lt
+    8  ls -lt
+    9  cd EDIBO
+   10  pwd
+   11  cd SHELL
+   12  pwd
+   13  ls -lt
+   14  cd EDIBO/
+   15  cd /EDIBO
+   16  cd EDIBO
+   17  cd ~
+   18  pwd
+   19  ls -lt
+   20  pwd
+   21  git clone https://www.github.com/KrastinsE/FibonacciNumbers
+   22  ls -lt
+   23  cd FibonacciNumbers
+   24  ls -lt
+   25  cat README.md
+   26  nano README.md
+   27  cd ~
+   28  cd EDIBO
+   29  cd SHELL
+   30  ls -lt
+   31  nano dec2bin.txt
+   32  pwd
+   33  cd ~
+   34  ls -lt
+   35  cd FibonacciNumbers
+   36  ls -l
+   37  cd ~
+   38  cd EDIBO
+   39  cd SHELL
+   40  nano dec2tbin.txt
+   41  ls -l
+   42  nano dec2bin.txt
+   43  cd ~
+   44  cd FibonacciNumbers
+   45  ls -l
+   46  nano README.md
+   47  nano test_FibonacciNumbers.sh
+   48  ls -l
+   49  chmod 744 test_FibonacciNumbers.sh
+   50  ls -l
+   51  ./test_FibonacciNumbers.sh
+   52  nano test_FibonacciNumbers.sh
+   53  ./test_FibonacciNumbers.sh
+   54  nano test_FibonacciNumbers.sh
+   55  ./test_FibonacciNumbers.sh
+   56  nano test_FibonacciNumbers.sh
+   57  ./test_FibonacciNumbers.sh
+   58  pwd
+   59  cd ~
+   60  pwd
+   61  ls -l
+   62  cd FibonacciNumbers
+   63  ./test_FibonacciNumbers.sh
+   64  cd ~
+   65  pwd
+   66  cd EDIBO
+   67  mkdir Python
+   68  pwd
+   69  ls -l
+   70  cd Python
+   71  pwd
+   72  nano README.md
+   73  cat README.md
+   74  nano README.md
+   75  cd ..
+   76  history
+   77  history > history_20200812b.txt

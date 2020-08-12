@@ -1,0 +1,18 @@
+dec2bin
+
+   strādāt kamēr=> tātad, var izmantot while
+	  |
+	  ^
+ 76 / 2 = 38, atlikums 0
+ 38 / 2 = 19, atlikums 0
+ 19 / 2 =  9, atlikums 1
+  9 / 2 =  4, atlikums 1
+  4 / 2 =  2, atlikums 0
+  2 / 2 =  1, atlikums 0
+  1 / 2 =  0, atlikums 1
+	 nav nulle
+
+bet attēlot atlikumu no dalījuma - tiek dabūts % no atlikuma
+0011001 - nē
+
+1001100 - jā (jāuzrāda pretējā virzienā)
