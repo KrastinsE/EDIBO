@@ -2,7 +2,7 @@
 
 git config --global user.email ervins.krastins@gmail.com
 git add .
-git commit -m "20200812_17_15"
+git commit -m "20200813_19_50"
 git push origin master
 
 
