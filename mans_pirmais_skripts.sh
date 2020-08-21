@@ -1,9 +1,10 @@
 #!/bin/bash
 
-mkdir ABC
-cd ABC
-touch a.txt
-mkdir ../DEF
-cp ./a.txt ../DEF/b.txt
+mkdir Meetup_History
+cd Meetup_History
+# touch test.txt
+# mkdir ../ABC
+# cp ./antaA.txt ../ANTA/antaB.txt
+cp ./history_20200807d.txt ./Meetup_History
 
 
