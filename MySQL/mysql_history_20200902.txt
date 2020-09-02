@@ -1,0 +1,4 @@
+_HiStOrY_V2_
+source\040script_1.sql
+SHOW\040TABLES;
+EXIT;
