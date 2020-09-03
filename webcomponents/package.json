@@ -1,0 +1,26 @@
+{
+  "name": "webcomponents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --env.mode development",
+    "prod": "webpack --env.mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.4.4",
+    "copy-webpack-plugin": "^6.1.0",
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "@vaadin/vaadin-button": "^2.4.0",
+    "@vaadin/vaadin-grid": "^5.7.1",
+    "@vaadin/vaadin-text-field": "^2.7.1"
+  }
+}
