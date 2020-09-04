@@ -1,7 +1,5 @@
 #Intro in MySQL
 
-mysql -h database-1.cxnurhwpmz0x.eu-central-1.rds.amazonaws.com -P 3000 -u u24 -p 
-
 https://www.mysqltutorial.org/
 
 https://www.youtube.com/watch?v=K6w0bZjl_Lw
