@@ -1,0 +1,95 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ng serve
+    4  exit
+    5  export NVM_DIR="$HOME/.nvm" && ( git clone https://github.com/nvm-sh/nvm.git "$NVM_DIR"; cd "$NVM_DIR"; git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`; ) && \. "$NVM_DIR/nvm.sh"
+    6  nvm i 12
+    7  git clone https:www.github.com/KrastinsE/EDIBO
+    8  git clone https//:www.github.com/KrastinsE/EDIBO
+    9  git clone https://:www.github.com/KrastinsE/EDIBO
+   10  git clone https://www.github.com/KrastinsE/EDIBO
+   11  ls -lt
+   12  cd EDIBO
+   13  cd Angular
+   14  ls -lt
+   15  cd MyApp1
+   16  code .
+   17  npm install -g @angular/cli
+   18  ng add @angular/material
+   19  code .
+   20  pwd
+   21  history
+   22  ls
+   23  git clone git@gitlab.com:KrastinsE/my-key-test-project.git
+   24  GIT_SSH_COMMAND='ssh -i~/dev/ git clone git@gitlab.com:KrastinsE/my-first-project-on-gitlab.git
+
+   25  GIT_SSH_COMMAND='ssh -i~/dev/my_super_key git clone git@gitlab.com:KrastinsE/my-key-test-project.git
+
+   26  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key git clone git@gitlab.com:KrastinsE/my-key-test-project.git
+
+   27  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git clone git@gitlab.com:KrastinsE/my-key-test-project.git
+   28  cd my-key-test-project/
+   29  ls -lt
+   30  .git/
+   31  ls -a
+   32  ls .git/
+   33  .git/config
+   34  git status
+   35  git add *
+   36  cd ~
+   37  git clone https://www.github.com/KrastinsE/Codesandbox.io-webs
+   38  ls -lt
+   39  cd Codesandbox.io-webs/
+   40  git remote rename origin old-origin
+   41  git remote add origin git@gitlab.com:KrastinsE/my-first-react.git
+   42  git push -u origin --all
+   43  git push -u origin --tags
+   44  GIT_SSH-COMMAND='ssh -i ~/dev/my_super_key' git push
+   45  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git push
+   46  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git clone git@gitlab.com:KrastinsE/my-first-react.git
+   47  ls -a
+   48  pwd
+   49  ls -lt
+   50  git add .
+   51  git commit -m 20200908_18_50
+   52  git config --global user.name "Ervīns Krastiņš"
+   53  git config --global user.email "ervins.krastins@gmail.com"
+   54  git add .
+   55  git commit -m 20200908_18_50
+   56  ls -lt
+   57  git config --global user.name "Ervīns Krastiņš"
+   58  git config --global user.email "ervins.krastins@gmail.com"
+   59  git clone git@gitlab.com:KrastinsE/my-first-react.git
+   60  cd my-first-react
+   61  touch README.md
+   62  git add README.md
+   63  git commit -m "add README"
+   64  git push -u origin master
+   65  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key''git push
+GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git push
+   66  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key''git push
+GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git push
+   67  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key''git push
+GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git push
+   68  ls -lt
+   69  cd ..
+   70  ls -lt
+   71  cd ..
+   72  ls -lt
+   73  cd Codesandbox.io-webs/
+   74  ls -lt
+   75  rm -rf my-first-react/
+   76  ls -l
+   77  git init
+   78  git remote add origin git@gitlab.com:KrastinsE/my-first-react.git
+   79  ls -a
+   80  rm -rf .git
+   81  git init
+   82  git remote add origin git@gitlab.com:KrastinsE/my-first-react.git
+   83  git add .
+   84  git commit -m "20200908_19_00_ReactProcject_Init_Commit"
+   85  git push -u origin master
+   86  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git push
+   87  GIT_SSH_COMMAND='ssh -i ~/dev/my_super_key' git push --set-upstream origin master
+   88  history
+   89  history > history_20200908_19_00_how_to_push_files_to_gitlab
