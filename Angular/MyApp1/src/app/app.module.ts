@@ -4,20 +4,36 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatSliderModule } from '@angular/material/slider';
+import { MatDividerModule } from '@angular/material/divider';
+import { MatIconModule } from '@angular/material/icon';
+import { MatListModule } from '@angular/material/list';
+import { MatButtonModule } from '@angular/material/button';
+import { MatTabsModule } from '@angular/material/tabs';
+import { MatTableModule } from '@angular/material/table';
+
+import { ButtonOverviewExample } from './Buttons/button-overview-example';
+import { TableBasicExample } from './Table/table-basic-example';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ButtonOverviewExample,
+    TableBasicExample
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MatSliderModule,
+    MatDividerModule,
+    MatIconModule,
+    MatListModule,
+    MatButtonModule,
+    MatTabsModule,
+    MatTableModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, ButtonOverviewExample]
 })
 export class AppModule { }
-
-
-import { ButtonOverviewExample } from '·/Buttons/button-overview-example';
